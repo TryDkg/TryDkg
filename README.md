@@ -1,6 +1,6 @@
 # Hi, I'm Maxim 👋
 
-Linux enthusiast, QA learner and future Computer Science student.
+Linux enthusiast, QA Automation learner and future Computer Science student.
 
 ## Current Focus
 

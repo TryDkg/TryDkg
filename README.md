@@ -39,3 +39,5 @@ Linux enthusiast, QA learner and future Computer Science student.
 * Linux notes
 * QA practice
 * Scripts and experiments
+
+[![QA Portfolio](https://github.com/TryDkg/qa-portfolio/actions/workflows/tests.yml/badge.svg)](https://github.com/TryDkg/qa-portfolio/actions)

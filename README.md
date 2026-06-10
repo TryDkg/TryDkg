@@ -9,6 +9,7 @@ Linux enthusiast, QA learner and future Computer Science student.
 * Git / GitHub
 * SQL learning
 * Performance optimization
+* 🧪 Built a QA automation framework (Python/Playwright/Pytest/Allure) with CI/CD — see [qa-portfolio](https://github.com/TryDkg/qa-portfolio)
 
 ## Current Setup
 

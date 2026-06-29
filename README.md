@@ -36,7 +36,7 @@ Aspiring Manual QA Engineer with a strong Linux background and hands-on experien
 * CachyOS (Arch Linux)
 * Wayland
 * Niri
-* Bash
+* Fish
 * CLI troubleshooting
 * Log analysis
 

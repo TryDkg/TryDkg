@@ -1,44 +1,72 @@
 # Hi, I'm Maxim 👋
 
-Linux enthusiast, QA Automation learner and future Computer Science student.
+Aspiring Manual QA Engineer with a strong Linux background and hands-on experience in exploratory testing, bug reporting, browser debugging, and Android application testing.
 
-## Current Focus
+## Technical Skills
 
-* Linux and Wayland ecosystem
-* QA / Software Testing
-* Git / GitHub
-* SQL learning
-* Performance optimization
-* 🧪 Built a QA automation framework (Python/Playwright/Pytest/Allure) with CI/CD — see [qa-portfolio](https://github.com/TryDkg/qa-portfolio)
+### QA
 
-## Current Setup
+* Manual Testing
+* Exploratory Testing
+* Functional Testing
+* UI Testing
+* Bug Reporting
+* Test Case Analysis
+* Severity & Priority Assessment
 
-* CachyOS
-* Niri WM
+### Web
+
+* HTTP / HTTPS fundamentals
+* Client-Server Architecture
+* Browser DevTools
+* Network Inspection
+* Console Debugging
+
+### Tools
+
+* Jira
+* Postman (Learning)
+* Git
+* GitHub
+* Firefox DevTools
+* Chrome DevTools
+
+### Linux
+
+* CachyOS (Arch Linux)
 * Wayland
-* AMD GPU stack
+* Niri
 * Bash
+* CLI troubleshooting
+* Log analysis
+
+## Current Projects
+
+### Linux Dotfiles
+
+* Maintain a personalized Wayland desktop environment.
+* Configure Niri, Bash and Linux workflows.
+* Manage configuration through Git.
+
+### QA Practice
+
+* Practice exploratory testing on Android applications and web platforms.
+* Write structured bug reports in English.
+* Improve testing workflow using AI-assisted documentation while validating all findings manually.
 
 ## Currently Learning
 
-* QA methodologies
-* Linux internals
+* REST API Testing
 * SQL
-* Git workflows
-* Test documentation
+* Postman
+* Software Testing Methodologies
+* Test Design Techniques
+* Playwright
 
-## Goals
+## Interests
 
-* Build technical portfolio
-* Learn automation testing
-* Contribute to open source
-* Become QA Engineer
-
-## Repositories
-
-* Dotfiles
-* Linux notes
-* QA practice
-* Scripts and experiments
-
-[![QA Portfolio](https://github.com/TryDkg/qa-portfolio/actions/workflows/tests.yml/badge.svg)](https://github.com/TryDkg/qa-portfolio/actions)
+* Software Quality
+* Linux
+* Web Technologies
+* Automation Testing
+* Open Source
